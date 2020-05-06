@@ -1,4 +1,4 @@
 # Python Spider Senator
-#Usage: python Spider.py
+#Usage: python By Spider.py
 #add link
 #links Saved:Senator.txt
